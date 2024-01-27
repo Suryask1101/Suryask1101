@@ -1,19 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E9F7E7&random=false&width=435&lines=Hey+i+am+Surya!)](https://git.io/typing-svg)
 
-Hey there! I'm a computer science student from Germany, with over five exciting years of programming experience under my belt. I'm deeply passionate about crafting software, tinkering with distributed systems, and diving into databases, system architecture, and data structures and algorithms.
+Hey there! I'm Surya, a dedicated Cloud and DevOps Engineer with a passion for leveraging cutting-edge technologies to drive digital transformation. Based in Bengaluru, India ,I thrive on designing and implementing robust solutions that optimize performance and enhance scalability.
 
-Java and Typescript are my go-to programming languages, empowering me to bring ideas to life and create cool stuff. Along the way, I've honed my skills in data structures, algorithms, design patterns, and writing clean code for smoother development.
+Adept in Computer Technology, certified in Linux, AWS, and DevOps, with recent advanced training in Cloud Computing. Experienced in architecting and optimizing cloud infrastructure for efficiency and innovation. Passionate about driving digital transformation and exploring new challenges in the tech industry. Skilled in system architecture, deployment, and scalability. Committed to continuous learning and professional growth. 
 
-I'm an avid learner, always hungry for the latest tech trends and innovations.
+I am deeply passionate about harnessing the power of cloud technologies to revolutionize how organizations operate and innovate. With an unwavering dedication to excellence, I am eager to explore new opportunities that challenge me to push the boundaries of what's possible in the tech industry.
 
-Seeking new challenges is my forte, and I'm eager to make a difference with my skills. My journey in computer science has just begun, and I'm ready to embrace whatever comes my way. Lifelong learning is my mantra, and I can't wait to see how my tech passion shapes my future and impacts the world!
+Let's Connect
+
+If you're looking for a seasoned professional with a proven track record of delivering impactful solutions.., I'm excited to connect and explore how we can collaborate to achieve your goals.
 
 ## Skills
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,kubernetes,redhat,devops&perline=13" />
+    <img src="https://skillicons.dev/icons?i=devops,linux,aws,maven,docker,jenkins,kubernetes,minikube,ansible,terraform&perline=13" />
   </a>
 </p>
 
