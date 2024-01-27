@@ -15,7 +15,7 @@ If you're looking for a seasoned professional with a proven track record of deli
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,devOps,aws,maven,docker,jenkins,kubernetes,ansible,terraform,html,css,python,git,bash,github&perline=13" />
+    <img src="https://skillicons.dev/icons?i=linux,aws,maven,docker,jenkins,kubernetes,ansible,terraform,html,css,python,git,bash,github&perline=13" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ If you're looking for a seasoned professional with a proven track record of deli
    <img src="https://skillicons.dev/icons?i=instagram" />
   </a> 
 
-  <a href="https://www.gmail.com/suryask4530@gmail.com">
+  <a href="https://suryask4530@gmail.com">
    <img src="https://skillicons.dev/icons?i=gmail" />
   </a> 
 </p>
