@@ -15,31 +15,19 @@ If you're looking for a seasoned professional with a proven track record of deli
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=devops,linux,aws,maven,docker,jenkins,kubernetes,minikube,ansible,terraform&perline=13" />
+    <img src="https://skillicons.dev/icons?i=devops,linux,aws,maven,docker,jenkins,kubernetes,ansible,terraform&perline=13" />
   </a>
 </p>
 
-## Gists
-
-Also have a look at my [Gists](https://gist.github.com/Louis3797) I uploaded!
- 
-## Currently learning (2023):
-
-* [ ] [Spring Boot](https://spring.io/)
-* [ ] Microservices
-* [ ] [Keycloak](https://www.keycloak.org/)
-* [ ] [RabbitMQ](https://www.rabbitmq.com/)
-* [ ] [Apache Kafka](https://kafka.apache.org/)
-* [ ] [Elasticsearch](https://www.elastic.co/de/elasticsearch)
 
 
 ## Connect with me!
 <p > 
- <a href="https://twitter.com/codewithlouiss">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+ <a href="https://www.linkedin.com/in/suryakumar11">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
  
-  <a href="https://www.instagram.com/codewithlouis">
+  <a href="https://www.instagram.com/_s_urya_sk_/">
    <img src="https://skillicons.dev/icons?i=instagram" />
   </a> 
 </p>
