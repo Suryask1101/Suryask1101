@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E9F7E7&random=false&width=435&lines=Hey+i+am+Surya!)](https://git.io/typing-svg)
 
-Hey there! I'm Surya, a dedicated Cloud and DevOps Engineer with a passion for leveraging cutting-edge technologies to drive digital transformation. Based in Bengaluru, India ,I thrive on designing and implementing robust solutions that optimize performance and enhance scalability.
+Hey there! I'm a dedicated Cloud and DevOps Engineer with a passion for leveraging cutting-edge technologies to drive digital transformation. Based in Bengaluru, India ,I thrive on designing and implementing robust solutions that optimize performance and enhance scalability.
 
 Adept in Computer Technology, certified in Linux, AWS, and DevOps, with recent advanced training in Cloud Computing. Experienced in architecting and optimizing cloud infrastructure for efficiency and innovation. Passionate about driving digital transformation and exploring new challenges in the tech industry. Skilled in system architecture, deployment, and scalability. Committed to continuous learning and professional growth. 
 
