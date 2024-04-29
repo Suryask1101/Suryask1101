@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E9F7E7&random=false&width=435&lines=Hey+i+am+Surya!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C1AF7FF&random=false&width=435&lines=Hey+i+am+Surya!)](https://git.io/typing-svg)
 
 Hey there! I'm a dedicated Cloud and DevOps Engineer with a passion for leveraging cutting-edge technologies to drive digital transformation. Based in Bengaluru, India ,I thrive on designing and implementing robust solutions that optimize performance and enhance scalability.
 
